@@ -1,0 +1,14 @@
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\bin\Debug\net8.0\Observer.exe
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\bin\Debug\net8.0\Observer.deps.json
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\bin\Debug\net8.0\Observer.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\bin\Debug\net8.0\Observer.pdb
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\refint\Observer.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.pdb
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Observer\obj\Debug\net8.0\ref\Observer.dll

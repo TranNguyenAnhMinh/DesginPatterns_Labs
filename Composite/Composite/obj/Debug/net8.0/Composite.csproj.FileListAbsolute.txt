@@ -1,0 +1,14 @@
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\bin\Debug\net8.0\Composite.exe
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\bin\Debug\net8.0\Composite.deps.json
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\bin\Debug\net8.0\Composite.runtimeconfig.json
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\bin\Debug\net8.0\Composite.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\bin\Debug\net8.0\Composite.pdb
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.AssemblyInfoInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.AssemblyInfo.cs
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.csproj.CoreCompileInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\refint\Composite.dll
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.pdb
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
+D:\NhuDang\School\Design_Patterns\DesignPatterns_Labs_Explained\Composite\Composite\obj\Debug\net8.0\ref\Composite.dll

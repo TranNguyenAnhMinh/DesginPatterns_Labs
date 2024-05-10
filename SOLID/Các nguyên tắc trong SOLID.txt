@@ -1,0 +1,9 @@
+- Nguyên tắc trách nhiệm đơn (S): Các lớp có mục đích duy nhất, rõ ràng, giúp dễ hiểu, bảo trì và kiểm tra.
+
+- Nguyên tắc mở/đóng (O): Chức năng mới có thể được thêm vào mà không cần sửa đổi mã hiện có, thúc đẩy khả năng mở rộng mã.
+
+- Nguyên tắc thay thế Liskov (L): Các đối tượng của một lớp con nên có thể thay thế các đối tượng của lớp cha mà không làm thay đổi tính chất của method/module trong lớp cha.
+
+- Nguyên tắc phân tách giao diện (I): Nên ưu tiên sử dụng nhiều interface nhỏ cụ thể hơn là một interface lớn tổng hợp nhiều phương thức. Điều này giúp tránh việc các lớp phải triển khai các phương thức không cần thiết.
+
+- Nguyên tắc đảo ngược phụ thuộc (D): Các module cấp cao không nên phụ thuộc vào các module cấp thấp. Cả hai nên phụ thuộc vào các abstraction. Nói một cách đơn giản, nên phụ thuộc vào abstraction (ví dụ: private readonly ILogger _logger;), không phụ thuộc vào implement (ví dụ: private readonly Logger logger;).

@@ -1,0 +1,14 @@
+D:\NhuDang\School\Design_Patterns\1_Singleton\bin\Debug\net8.0\1_Singleton.exe
+D:\NhuDang\School\Design_Patterns\1_Singleton\bin\Debug\net8.0\1_Singleton.deps.json
+D:\NhuDang\School\Design_Patterns\1_Singleton\bin\Debug\net8.0\1_Singleton.runtimeconfig.json
+D:\NhuDang\School\Design_Patterns\1_Singleton\bin\Debug\net8.0\1_Singleton.dll
+D:\NhuDang\School\Design_Patterns\1_Singleton\bin\Debug\net8.0\1_Singleton.pdb
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.AssemblyInfoInputs.cache
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.AssemblyInfo.cs
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.csproj.CoreCompileInputs.cache
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.dll
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\refint\1_Singleton.dll
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.pdb
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\1_Singleton.genruntimeconfig.cache
+D:\NhuDang\School\Design_Patterns\1_Singleton\obj\Debug\net8.0\ref\1_Singleton.dll

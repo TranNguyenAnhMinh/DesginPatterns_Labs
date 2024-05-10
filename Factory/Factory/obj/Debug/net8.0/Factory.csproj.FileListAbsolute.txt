@@ -1,0 +1,14 @@
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\bin\Debug\net8.0\Factory.exe
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\bin\Debug\net8.0\Factory.deps.json
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\bin\Debug\net8.0\Factory.dll
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\bin\Debug\net8.0\Factory.pdb
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.dll
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\refint\Factory.dll
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.pdb
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+D:\NhuDang\School\Design_Patterns\DesignPattern_Labs_Explained\Factory\Factory\obj\Debug\net8.0\ref\Factory.dll
